@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  justify-content: space-between;
+  background-color: cadetblue;
+}
+
+.navbar-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
